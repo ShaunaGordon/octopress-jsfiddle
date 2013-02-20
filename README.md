@@ -8,7 +8,7 @@ Since Brian no longer has the plugin as one of his own repositories -- and becau
 
 ## Improvements on the original
 
-The original script itself is pretty simple and works as intended (in part thanks to the straightforwardness of jsFiddle's <strike>API</strike> embedding capabilities) for basic Fiddles. However, I found myself wanting to use jsFiddle's versioning system to display changes in a given sample. I also ran into problems with the built URL effectively stripping out my username.
+The original script itself is pretty simple and works as intended (in part thanks to the straightforwardness of jsFiddle's <del>API</del> embedding capabilities) for basic Fiddles. However, I found myself wanting to use jsFiddle's versioning system to display changes in a given sample. I also ran into problems with the built URL effectively stripping out my username.
 
 A quick search turned up the aforementioned pull request, but both the people involved in the conversation only had whatever changes they made to their Octopress install as a whole in their Octopress repository. 
 
