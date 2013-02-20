@@ -18,3 +18,7 @@ With the help of [Zach Thomae's](https://github.com/zthomae) code in the pull re
 - username/shorttag
 - shorttag/revision
 - username/shorttag/revision
+
+## Usage
+
+Usage is exactly the same, except now, instead of just putting `yzfH2` in the tag, you can put in `[username]/yzfH2`, `yzfH2/1`, or even `[username]/yzfH2/1`.
